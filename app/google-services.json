@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19027415037",
+    "project_id": "imageeditor-f727a",
+    "storage_bucket": "imageeditor-f727a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19027415037:android:cfea8cfd60586e3e0ad394",
+        "android_client_info": {
+          "package_name": "com.example.imageeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19027415037-31drut2oaviotenmh5mrb524fkro7knu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsEnGnZY5ZA0BAEhUNm92EfhLZbjoyHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19027415037-31drut2oaviotenmh5mrb524fkro7knu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
